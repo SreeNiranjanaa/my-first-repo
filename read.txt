@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Welcome to my-first-repo
 Its really fascinating
+=======
+Its sunny outside
+>>>>>>> update-readme
